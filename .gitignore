@@ -1,7 +1,7 @@
 ### Python template
 # User definied
-geitting_started/env_mlflow
-
+geitting_started/mlflow_venv
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

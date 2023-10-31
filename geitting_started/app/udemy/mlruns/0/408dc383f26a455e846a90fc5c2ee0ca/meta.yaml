@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateu/github/mlflow_tutorial/geitting_started/app/udemy/mlruns/0/408dc383f26a455e846a90fc5c2ee0ca/artifacts
+end_time: 1698745112375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 408dc383f26a455e846a90fc5c2ee0ca
+run_name: overjoyed-conch-505
+run_uuid: 408dc383f26a455e846a90fc5c2ee0ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698745103424
+status: 3
+tags: []
+user_id: mateu

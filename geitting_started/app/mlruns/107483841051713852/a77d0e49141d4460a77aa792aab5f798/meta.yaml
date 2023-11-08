@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a77d0e49141d4460a77aa792aab5f798/artifacts
+end_time: 1699365804783
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a77d0e49141d4460a77aa792aab5f798
+run_name: inquisitive-lamb-936
+run_uuid: a77d0e49141d4460a77aa792aab5f798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365804591
+status: 3
+tags: []
+user_id: mateu

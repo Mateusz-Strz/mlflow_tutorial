@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/91ceb9d8b71c4563a7225b35536beec5/artifacts
+end_time: 1699365745337
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 91ceb9d8b71c4563a7225b35536beec5
+run_name: popular-mole-730
+run_uuid: 91ceb9d8b71c4563a7225b35536beec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365745203
+status: 3
+tags: []
+user_id: mateu

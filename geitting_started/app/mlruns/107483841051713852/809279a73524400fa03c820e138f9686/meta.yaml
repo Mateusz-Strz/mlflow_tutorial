@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/809279a73524400fa03c820e138f9686/artifacts
+end_time: 1699365754380
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 809279a73524400fa03c820e138f9686
+run_name: peaceful-fly-739
+run_uuid: 809279a73524400fa03c820e138f9686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365754231
+status: 3
+tags: []
+user_id: mateu

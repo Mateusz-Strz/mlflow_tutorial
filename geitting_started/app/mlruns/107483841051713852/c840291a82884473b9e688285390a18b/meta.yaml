@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c840291a82884473b9e688285390a18b/artifacts
+end_time: 1699365753821
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c840291a82884473b9e688285390a18b
+run_name: enthused-wolf-528
+run_uuid: c840291a82884473b9e688285390a18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365753661
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/f540324f3f66414c91193de5d4b82d69/artifacts
+end_time: 1699365777511
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: f540324f3f66414c91193de5d4b82d69
+run_name: luminous-frog-316
+run_uuid: f540324f3f66414c91193de5d4b82d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365777348
+status: 3
+tags: []
+user_id: mateu

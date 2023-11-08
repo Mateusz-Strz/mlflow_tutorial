@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/8b95402e5268401c9e3ba5004e07b502/artifacts
+end_time: 1699365809780
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 8b95402e5268401c9e3ba5004e07b502
+run_name: magnificent-fowl-607
+run_uuid: 8b95402e5268401c9e3ba5004e07b502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365809608
+status: 3
+tags: []
+user_id: mateu

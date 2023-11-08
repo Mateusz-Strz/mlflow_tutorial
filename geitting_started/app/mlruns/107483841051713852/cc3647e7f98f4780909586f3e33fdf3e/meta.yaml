@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/cc3647e7f98f4780909586f3e33fdf3e/artifacts
+end_time: 1699365809153
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: cc3647e7f98f4780909586f3e33fdf3e
+run_name: amazing-rat-8
+run_uuid: cc3647e7f98f4780909586f3e33fdf3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365808968
+status: 3
+tags: []
+user_id: mateu

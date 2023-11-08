@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/77135c7a326c44ebaaf1242ef797bc44/artifacts
+end_time: 1699365752538
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 77135c7a326c44ebaaf1242ef797bc44
+run_name: legendary-fowl-340
+run_uuid: 77135c7a326c44ebaaf1242ef797bc44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365752392
+status: 3
+tags: []
+user_id: mateu

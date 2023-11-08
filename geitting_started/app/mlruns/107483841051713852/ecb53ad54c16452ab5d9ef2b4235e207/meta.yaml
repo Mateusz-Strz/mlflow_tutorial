@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/ecb53ad54c16452ab5d9ef2b4235e207/artifacts
+end_time: 1699365792083
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: ecb53ad54c16452ab5d9ef2b4235e207
+run_name: adorable-panda-416
+run_uuid: ecb53ad54c16452ab5d9ef2b4235e207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365791929
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c0f189ed952040b4bd10df4df5f2d9bd/artifacts
+end_time: 1699365768419
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c0f189ed952040b4bd10df4df5f2d9bd
+run_name: angry-newt-173
+run_uuid: c0f189ed952040b4bd10df4df5f2d9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365768251
+status: 3
+tags: []
+user_id: mateu

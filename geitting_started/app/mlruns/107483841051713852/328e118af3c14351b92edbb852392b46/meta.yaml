@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/328e118af3c14351b92edbb852392b46/artifacts
+end_time: 1699365788470
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 328e118af3c14351b92edbb852392b46
+run_name: victorious-tern-485
+run_uuid: 328e118af3c14351b92edbb852392b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365788287
+status: 3
+tags: []
+user_id: mateu

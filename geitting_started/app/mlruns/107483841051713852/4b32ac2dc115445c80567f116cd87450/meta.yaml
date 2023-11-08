@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/4b32ac2dc115445c80567f116cd87450/artifacts
+end_time: 1699365740795
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 4b32ac2dc115445c80567f116cd87450
+run_name: gentle-shark-320
+run_uuid: 4b32ac2dc115445c80567f116cd87450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365740647
+status: 3
+tags: []
+user_id: mateu

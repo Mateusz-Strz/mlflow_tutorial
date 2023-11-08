@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/fa61eeab52ce443c87764c53ef2f4a40/artifacts
+end_time: 1699365771794
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: fa61eeab52ce443c87764c53ef2f4a40
+run_name: omniscient-mole-613
+run_uuid: fa61eeab52ce443c87764c53ef2f4a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365771598
+status: 3
+tags: []
+user_id: mateu

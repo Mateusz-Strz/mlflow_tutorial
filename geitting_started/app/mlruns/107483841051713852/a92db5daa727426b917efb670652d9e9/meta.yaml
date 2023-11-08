@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a92db5daa727426b917efb670652d9e9/artifacts
+end_time: 1699365827514
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a92db5daa727426b917efb670652d9e9
+run_name: brawny-squid-192
+run_uuid: a92db5daa727426b917efb670652d9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365827333
+status: 3
+tags: []
+user_id: mateu

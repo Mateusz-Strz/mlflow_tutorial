@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/12765220f6f5444186e8014265717622/artifacts
+end_time: 1699365812072
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 12765220f6f5444186e8014265717622
+run_name: shivering-pug-816
+run_uuid: 12765220f6f5444186e8014265717622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365811892
+status: 3
+tags: []
+user_id: mateu

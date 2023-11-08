@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/264bb05e27864944abfd2dd563b01b04/artifacts
+end_time: 1699365747261
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 264bb05e27864944abfd2dd563b01b04
+run_name: stately-toad-761
+run_uuid: 264bb05e27864944abfd2dd563b01b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365747109
+status: 3
+tags: []
+user_id: mateu

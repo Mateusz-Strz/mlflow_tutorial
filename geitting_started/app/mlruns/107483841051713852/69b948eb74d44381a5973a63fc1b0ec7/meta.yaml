@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/69b948eb74d44381a5973a63fc1b0ec7/artifacts
+end_time: 1699365814508
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 69b948eb74d44381a5973a63fc1b0ec7
+run_name: exultant-lark-152
+run_uuid: 69b948eb74d44381a5973a63fc1b0ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365814347
+status: 3
+tags: []
+user_id: mateu

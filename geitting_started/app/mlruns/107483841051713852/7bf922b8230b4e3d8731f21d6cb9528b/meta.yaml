@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/7bf922b8230b4e3d8731f21d6cb9528b/artifacts
+end_time: 1699365800124
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 7bf922b8230b4e3d8731f21d6cb9528b
+run_name: delightful-seal-794
+run_uuid: 7bf922b8230b4e3d8731f21d6cb9528b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365799952
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/ce94343a9c8346b0bb0117b2cf40367c/artifacts
+end_time: 1699365818032
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: ce94343a9c8346b0bb0117b2cf40367c
+run_name: charming-owl-429
+run_uuid: ce94343a9c8346b0bb0117b2cf40367c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365817869
+status: 3
+tags: []
+user_id: mateu

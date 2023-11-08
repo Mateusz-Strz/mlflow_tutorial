@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b76c63419ef849e3aeab93a8c3e7f88c/artifacts
+end_time: 1699365742119
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b76c63419ef849e3aeab93a8c3e7f88c
+run_name: invincible-worm-823
+run_uuid: b76c63419ef849e3aeab93a8c3e7f88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365741996
+status: 3
+tags: []
+user_id: mateu

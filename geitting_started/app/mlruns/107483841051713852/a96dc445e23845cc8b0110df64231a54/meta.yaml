@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a96dc445e23845cc8b0110df64231a54/artifacts
+end_time: 1699365814144
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a96dc445e23845cc8b0110df64231a54
+run_name: bittersweet-flea-52
+run_uuid: a96dc445e23845cc8b0110df64231a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365813971
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/390258dee3e24b1497dfafd73a6ac8d7/artifacts
+end_time: 1699365778246
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 390258dee3e24b1497dfafd73a6ac8d7
+run_name: charming-wolf-1
+run_uuid: 390258dee3e24b1497dfafd73a6ac8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365778094
+status: 3
+tags: []
+user_id: mateu

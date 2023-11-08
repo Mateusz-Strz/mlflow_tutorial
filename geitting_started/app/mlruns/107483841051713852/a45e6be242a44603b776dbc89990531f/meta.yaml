@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a45e6be242a44603b776dbc89990531f/artifacts
+end_time: 1699365751504
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a45e6be242a44603b776dbc89990531f
+run_name: industrious-dog-796
+run_uuid: a45e6be242a44603b776dbc89990531f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365751350
+status: 3
+tags: []
+user_id: mateu

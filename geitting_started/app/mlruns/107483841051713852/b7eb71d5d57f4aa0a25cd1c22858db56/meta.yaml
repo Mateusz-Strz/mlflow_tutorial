@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b7eb71d5d57f4aa0a25cd1c22858db56/artifacts
+end_time: 1699365791905
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b7eb71d5d57f4aa0a25cd1c22858db56
+run_name: colorful-roo-402
+run_uuid: b7eb71d5d57f4aa0a25cd1c22858db56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365791751
+status: 3
+tags: []
+user_id: mateu

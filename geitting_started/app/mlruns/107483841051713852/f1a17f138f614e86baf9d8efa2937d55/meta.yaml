@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/f1a17f138f614e86baf9d8efa2937d55/artifacts
+end_time: 1699365796033
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: f1a17f138f614e86baf9d8efa2937d55
+run_name: gaudy-mule-909
+run_uuid: f1a17f138f614e86baf9d8efa2937d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365795814
+status: 3
+tags: []
+user_id: mateu

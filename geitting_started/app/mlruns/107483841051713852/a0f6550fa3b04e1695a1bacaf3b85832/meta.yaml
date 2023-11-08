@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a0f6550fa3b04e1695a1bacaf3b85832/artifacts
+end_time: 1699365761982
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a0f6550fa3b04e1695a1bacaf3b85832
+run_name: magnificent-fox-635
+run_uuid: a0f6550fa3b04e1695a1bacaf3b85832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365761839
+status: 3
+tags: []
+user_id: mateu

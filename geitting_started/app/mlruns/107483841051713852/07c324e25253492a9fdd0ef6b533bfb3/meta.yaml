@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/07c324e25253492a9fdd0ef6b533bfb3/artifacts
+end_time: 1699365769127
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 07c324e25253492a9fdd0ef6b533bfb3
+run_name: fearless-perch-724
+run_uuid: 07c324e25253492a9fdd0ef6b533bfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365768983
+status: 3
+tags: []
+user_id: mateu

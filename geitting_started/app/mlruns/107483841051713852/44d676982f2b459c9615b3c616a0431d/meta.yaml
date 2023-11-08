@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/44d676982f2b459c9615b3c616a0431d/artifacts
+end_time: 1699365786296
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 44d676982f2b459c9615b3c616a0431d
+run_name: entertaining-pig-402
+run_uuid: 44d676982f2b459c9615b3c616a0431d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365786140
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/19c65cc667b64f38bea85eab81c5f651/artifacts
+end_time: 1699365810772
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 19c65cc667b64f38bea85eab81c5f651
+run_name: nervous-turtle-390
+run_uuid: 19c65cc667b64f38bea85eab81c5f651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365810593
+status: 3
+tags: []
+user_id: mateu

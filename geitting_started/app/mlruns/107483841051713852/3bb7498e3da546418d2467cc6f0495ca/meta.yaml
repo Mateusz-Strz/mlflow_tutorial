@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/3bb7498e3da546418d2467cc6f0495ca/artifacts
+end_time: 1699365796963
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 3bb7498e3da546418d2467cc6f0495ca
+run_name: thoughtful-worm-958
+run_uuid: 3bb7498e3da546418d2467cc6f0495ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365796731
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/4ada2a12daae482fb740a5babc46a01d/artifacts
+end_time: 1699365780365
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 4ada2a12daae482fb740a5babc46a01d
+run_name: capable-wolf-191
+run_uuid: 4ada2a12daae482fb740a5babc46a01d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365780215
+status: 3
+tags: []
+user_id: mateu

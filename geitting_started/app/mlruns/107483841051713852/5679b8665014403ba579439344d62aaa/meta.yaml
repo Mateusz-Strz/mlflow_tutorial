@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/5679b8665014403ba579439344d62aaa/artifacts
+end_time: 1699365806079
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 5679b8665014403ba579439344d62aaa
+run_name: serious-roo-516
+run_uuid: 5679b8665014403ba579439344d62aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365805910
+status: 3
+tags: []
+user_id: mateu

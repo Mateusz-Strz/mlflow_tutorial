@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/00ba4b67f85f4e919c9f3f595951c960/artifacts
+end_time: 1699365823074
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 00ba4b67f85f4e919c9f3f595951c960
+run_name: overjoyed-shoat-227
+run_uuid: 00ba4b67f85f4e919c9f3f595951c960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365822915
+status: 3
+tags: []
+user_id: mateu

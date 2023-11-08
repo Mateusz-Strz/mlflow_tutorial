@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e44eb3a6ab8e4b94a45d1010a0dd3e6b/artifacts
+end_time: 1699365738199
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e44eb3a6ab8e4b94a45d1010a0dd3e6b
+run_name: exultant-bug-950
+run_uuid: e44eb3a6ab8e4b94a45d1010a0dd3e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365737853
+status: 3
+tags: []
+user_id: mateu

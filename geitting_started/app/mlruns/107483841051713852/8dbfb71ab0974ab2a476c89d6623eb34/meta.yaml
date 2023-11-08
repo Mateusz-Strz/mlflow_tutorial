@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/8dbfb71ab0974ab2a476c89d6623eb34/artifacts
+end_time: 1699365754558
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 8dbfb71ab0974ab2a476c89d6623eb34
+run_name: amusing-wasp-721
+run_uuid: 8dbfb71ab0974ab2a476c89d6623eb34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365754405
+status: 3
+tags: []
+user_id: mateu

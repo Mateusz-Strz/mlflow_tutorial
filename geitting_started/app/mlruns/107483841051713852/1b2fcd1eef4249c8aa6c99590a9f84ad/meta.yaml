@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/1b2fcd1eef4249c8aa6c99590a9f84ad/artifacts
+end_time: 1699365742262
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 1b2fcd1eef4249c8aa6c99590a9f84ad
+run_name: capable-dog-139
+run_uuid: 1b2fcd1eef4249c8aa6c99590a9f84ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365742138
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a0d1919bb5a541e4a5107da463365604/artifacts
+end_time: 1699365763369
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a0d1919bb5a541e4a5107da463365604
+run_name: silent-fish-410
+run_uuid: a0d1919bb5a541e4a5107da463365604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365763210
+status: 3
+tags: []
+user_id: mateu

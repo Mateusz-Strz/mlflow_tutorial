@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/11833d485b524f9aa66417878b9a627b/artifacts
+end_time: 1699365816154
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 11833d485b524f9aa66417878b9a627b
+run_name: brawny-ram-244
+run_uuid: 11833d485b524f9aa66417878b9a627b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365815993
+status: 3
+tags: []
+user_id: mateu

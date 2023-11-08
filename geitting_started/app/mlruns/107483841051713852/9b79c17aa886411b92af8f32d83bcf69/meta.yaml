@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/9b79c17aa886411b92af8f32d83bcf69/artifacts
+end_time: 1699365794381
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 9b79c17aa886411b92af8f32d83bcf69
+run_name: dashing-crow-874
+run_uuid: 9b79c17aa886411b92af8f32d83bcf69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365794201
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/49042fce8737478888c7cd672f638517/artifacts
+end_time: 1699365749599
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 49042fce8737478888c7cd672f638517
+run_name: glamorous-conch-319
+run_uuid: 49042fce8737478888c7cd672f638517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365749466
+status: 3
+tags: []
+user_id: mateu

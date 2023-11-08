@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e2feb7fae3074d4f8fb45d35e735e0fe/artifacts
+end_time: 1699365736491
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e2feb7fae3074d4f8fb45d35e735e0fe
+run_name: upbeat-hawk-157
+run_uuid: e2feb7fae3074d4f8fb45d35e735e0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365736347
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/9447d034f0904e9bab114c687035cb9e/artifacts
+end_time: 1699365790263
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 9447d034f0904e9bab114c687035cb9e
+run_name: adorable-flea-351
+run_uuid: 9447d034f0904e9bab114c687035cb9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365790088
+status: 3
+tags: []
+user_id: mateu

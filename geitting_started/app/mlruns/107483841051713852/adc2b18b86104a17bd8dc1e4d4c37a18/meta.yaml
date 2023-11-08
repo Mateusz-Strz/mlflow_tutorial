@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/adc2b18b86104a17bd8dc1e4d4c37a18/artifacts
+end_time: 1699365821312
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: adc2b18b86104a17bd8dc1e4d4c37a18
+run_name: adaptable-deer-703
+run_uuid: adc2b18b86104a17bd8dc1e4d4c37a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365821133
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/494f1f030ec94433a3cc5d33d7e7ee0b/artifacts
+end_time: 1699365814846
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 494f1f030ec94433a3cc5d33d7e7ee0b
+run_name: upbeat-foal-468
+run_uuid: 494f1f030ec94433a3cc5d33d7e7ee0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365814680
+status: 3
+tags: []
+user_id: mateu

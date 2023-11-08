@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a4ba67a56c81430c9ed76bd191a0d2a9/artifacts
+end_time: 1699365749133
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a4ba67a56c81430c9ed76bd191a0d2a9
+run_name: salty-ant-286
+run_uuid: a4ba67a56c81430c9ed76bd191a0d2a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365748972
+status: 3
+tags: []
+user_id: mateu

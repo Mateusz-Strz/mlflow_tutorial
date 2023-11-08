@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/0d2ee1491c6c426495a28ad030af0752/artifacts
+end_time: 1699365815027
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 0d2ee1491c6c426495a28ad030af0752
+run_name: crawling-hound-126
+run_uuid: 0d2ee1491c6c426495a28ad030af0752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365814870
+status: 3
+tags: []
+user_id: mateu

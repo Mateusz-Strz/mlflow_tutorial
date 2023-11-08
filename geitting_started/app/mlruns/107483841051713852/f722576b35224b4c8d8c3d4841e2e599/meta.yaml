@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/f722576b35224b4c8d8c3d4841e2e599/artifacts
+end_time: 1699365792968
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: f722576b35224b4c8d8c3d4841e2e599
+run_name: gregarious-slug-216
+run_uuid: f722576b35224b4c8d8c3d4841e2e599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365792794
+status: 3
+tags: []
+user_id: mateu

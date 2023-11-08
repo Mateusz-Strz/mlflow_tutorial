@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/d64a883110ca4690a81c7df373e9a0b9/artifacts
+end_time: 1699365784186
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: d64a883110ca4690a81c7df373e9a0b9
+run_name: placid-bird-302
+run_uuid: d64a883110ca4690a81c7df373e9a0b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365784034
+status: 3
+tags: []
+user_id: mateu

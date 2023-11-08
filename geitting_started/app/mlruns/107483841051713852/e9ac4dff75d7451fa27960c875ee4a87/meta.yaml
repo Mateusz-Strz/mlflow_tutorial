@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e9ac4dff75d7451fa27960c875ee4a87/artifacts
+end_time: 1699365802976
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e9ac4dff75d7451fa27960c875ee4a87
+run_name: kindly-stork-178
+run_uuid: e9ac4dff75d7451fa27960c875ee4a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365802761
+status: 3
+tags: []
+user_id: mateu

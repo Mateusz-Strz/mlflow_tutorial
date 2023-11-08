@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/6c572650652a4d44bce537c043f8526f/artifacts
+end_time: 1699365770725
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 6c572650652a4d44bce537c043f8526f
+run_name: nimble-boar-495
+run_uuid: 6c572650652a4d44bce537c043f8526f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365770525
+status: 3
+tags: []
+user_id: mateu

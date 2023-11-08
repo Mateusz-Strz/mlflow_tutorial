@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/cb6271e9ce5340edb6150545425d2bbc/artifacts
+end_time: 1699365779838
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: cb6271e9ce5340edb6150545425d2bbc
+run_name: redolent-carp-41
+run_uuid: cb6271e9ce5340edb6150545425d2bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365779685
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1698745774918
+current_stage: Production
+description: ''
+last_updated_timestamp: 1698745811463
+name: model_v1
+run_id: 31510961f90f47628f5c3b7f593fd218
+run_link: ''
+source: file:///C:/Users/mateu/github/mlflow_tutorial/geitting_started/app/udemy/mlruns/0/31510961f90f47628f5c3b7f593fd218/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/mateu/github/mlflow_tutorial/geitting_started/app/udemy/mlruns/0/31510961f90f47628f5c3b7f593fd218/artifacts/model
+user_id: null
+version: 1

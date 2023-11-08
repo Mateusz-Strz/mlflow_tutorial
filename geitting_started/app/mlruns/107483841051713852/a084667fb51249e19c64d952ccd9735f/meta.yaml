@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a084667fb51249e19c64d952ccd9735f/artifacts
+end_time: 1699365786117
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a084667fb51249e19c64d952ccd9735f
+run_name: loud-fish-332
+run_uuid: a084667fb51249e19c64d952ccd9735f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365785963
+status: 3
+tags: []
+user_id: mateu

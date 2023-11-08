@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b18f08dbf6f843f2a572266f34adfeeb/artifacts
+end_time: 1699365784010
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b18f08dbf6f843f2a572266f34adfeeb
+run_name: wise-rat-414
+run_uuid: b18f08dbf6f843f2a572266f34adfeeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365783848
+status: 3
+tags: []
+user_id: mateu

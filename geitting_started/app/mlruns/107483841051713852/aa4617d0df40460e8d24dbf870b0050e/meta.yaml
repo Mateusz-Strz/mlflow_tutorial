@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/aa4617d0df40460e8d24dbf870b0050e/artifacts
+end_time: 1699365732749
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: aa4617d0df40460e8d24dbf870b0050e
+run_name: omniscient-kite-609
+run_uuid: aa4617d0df40460e8d24dbf870b0050e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365732632
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a20475d52f75441e98aa23622d3b50a2/artifacts
+end_time: 1699365748048
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a20475d52f75441e98aa23622d3b50a2
+run_name: spiffy-worm-517
+run_uuid: a20475d52f75441e98aa23622d3b50a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365747914
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/791696a02ef048059766dd3d04f80c32/artifacts
+end_time: 1699365791354
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 791696a02ef048059766dd3d04f80c32
+run_name: fun-bee-195
+run_uuid: 791696a02ef048059766dd3d04f80c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365791202
+status: 3
+tags: []
+user_id: mateu

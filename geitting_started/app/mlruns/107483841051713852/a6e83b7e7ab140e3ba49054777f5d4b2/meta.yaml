@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a6e83b7e7ab140e3ba49054777f5d4b2/artifacts
+end_time: 1699365800305
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a6e83b7e7ab140e3ba49054777f5d4b2
+run_name: flawless-ape-135
+run_uuid: a6e83b7e7ab140e3ba49054777f5d4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365800150
+status: 3
+tags: []
+user_id: mateu

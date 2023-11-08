@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/077f62eef94847a6b69539d6b9869224/artifacts
+end_time: 1699365799066
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 077f62eef94847a6b69539d6b9869224
+run_name: unruly-squirrel-452
+run_uuid: 077f62eef94847a6b69539d6b9869224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365798895
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/fd1f2ca76fa04d3682dda452c05f9c84/artifacts
+end_time: 1699365741104
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: fd1f2ca76fa04d3682dda452c05f9c84
+run_name: awesome-mare-304
+run_uuid: fd1f2ca76fa04d3682dda452c05f9c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365740983
+status: 3
+tags: []
+user_id: mateu

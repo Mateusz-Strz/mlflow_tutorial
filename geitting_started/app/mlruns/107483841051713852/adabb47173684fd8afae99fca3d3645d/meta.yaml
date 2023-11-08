@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/adabb47173684fd8afae99fca3d3645d/artifacts
+end_time: 1699365808941
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: adabb47173684fd8afae99fca3d3645d
+run_name: classy-ox-466
+run_uuid: adabb47173684fd8afae99fca3d3645d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365808772
+status: 3
+tags: []
+user_id: mateu

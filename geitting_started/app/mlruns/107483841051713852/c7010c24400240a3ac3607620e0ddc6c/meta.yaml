@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c7010c24400240a3ac3607620e0ddc6c/artifacts
+end_time: 1699365826644
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c7010c24400240a3ac3607620e0ddc6c
+run_name: enchanting-kite-823
+run_uuid: c7010c24400240a3ac3607620e0ddc6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365826465
+status: 3
+tags: []
+user_id: mateu

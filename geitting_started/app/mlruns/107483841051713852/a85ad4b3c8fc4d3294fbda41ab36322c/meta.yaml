@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a85ad4b3c8fc4d3294fbda41ab36322c/artifacts
+end_time: 1699365769553
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a85ad4b3c8fc4d3294fbda41ab36322c
+run_name: casual-gull-11
+run_uuid: a85ad4b3c8fc4d3294fbda41ab36322c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365769365
+status: 3
+tags: []
+user_id: mateu

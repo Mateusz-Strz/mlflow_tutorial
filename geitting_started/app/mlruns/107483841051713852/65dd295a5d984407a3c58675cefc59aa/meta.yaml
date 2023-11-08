@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/65dd295a5d984407a3c58675cefc59aa/artifacts
+end_time: 1699365777859
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 65dd295a5d984407a3c58675cefc59aa
+run_name: amusing-pug-158
+run_uuid: 65dd295a5d984407a3c58675cefc59aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365777703
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/31b92cd7c93846aabd873ce5d3d1c7a4/artifacts
+end_time: 1699365765652
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 31b92cd7c93846aabd873ce5d3d1c7a4
+run_name: fortunate-stork-388
+run_uuid: 31b92cd7c93846aabd873ce5d3d1c7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365765516
+status: 3
+tags: []
+user_id: mateu

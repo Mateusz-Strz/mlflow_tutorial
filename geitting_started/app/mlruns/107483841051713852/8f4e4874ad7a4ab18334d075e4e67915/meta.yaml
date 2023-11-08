@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/8f4e4874ad7a4ab18334d075e4e67915/artifacts
+end_time: 1699365746745
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 8f4e4874ad7a4ab18334d075e4e67915
+run_name: bittersweet-grub-623
+run_uuid: 8f4e4874ad7a4ab18334d075e4e67915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365746589
+status: 3
+tags: []
+user_id: mateu

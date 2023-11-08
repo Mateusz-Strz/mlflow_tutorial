@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/4c7967418326467fb0fe2511f27eafee/artifacts
+end_time: 1699365819726
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 4c7967418326467fb0fe2511f27eafee
+run_name: unique-quail-872
+run_uuid: 4c7967418326467fb0fe2511f27eafee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365819564
+status: 3
+tags: []
+user_id: mateu

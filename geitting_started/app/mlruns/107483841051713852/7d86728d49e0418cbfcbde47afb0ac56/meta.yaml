@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/7d86728d49e0418cbfcbde47afb0ac56/artifacts
+end_time: 1699365778949
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 7d86728d49e0418cbfcbde47afb0ac56
+run_name: skillful-elk-324
+run_uuid: 7d86728d49e0418cbfcbde47afb0ac56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365778789
+status: 3
+tags: []
+user_id: mateu

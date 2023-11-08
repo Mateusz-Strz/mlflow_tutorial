@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/231260bf20ce408d90abbd9d287b1208/artifacts
+end_time: 1699365824939
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 231260bf20ce408d90abbd9d287b1208
+run_name: wistful-kite-459
+run_uuid: 231260bf20ce408d90abbd9d287b1208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365824758
+status: 3
+tags: []
+user_id: mateu

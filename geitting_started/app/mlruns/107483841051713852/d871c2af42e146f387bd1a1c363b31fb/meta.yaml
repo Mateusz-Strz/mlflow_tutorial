@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/d871c2af42e146f387bd1a1c363b31fb/artifacts
+end_time: 1699365801192
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: d871c2af42e146f387bd1a1c363b31fb
+run_name: useful-moose-639
+run_uuid: d871c2af42e146f387bd1a1c363b31fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365801033
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/8cc759f6862a4dde9642e10d1a23e0c9/artifacts
+end_time: 1699365762684
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 8cc759f6862a4dde9642e10d1a23e0c9
+run_name: funny-mule-260
+run_uuid: 8cc759f6862a4dde9642e10d1a23e0c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365762515
+status: 3
+tags: []
+user_id: mateu

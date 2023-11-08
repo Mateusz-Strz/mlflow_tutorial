@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/5f89a619bf744d1db5b8d9f565445ce7/artifacts
+end_time: 1699365781853
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 5f89a619bf744d1db5b8d9f565445ce7
+run_name: honorable-steed-212
+run_uuid: 5f89a619bf744d1db5b8d9f565445ce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365781698
+status: 3
+tags: []
+user_id: mateu

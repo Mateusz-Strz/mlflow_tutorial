@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/3e76c9ceb14744d09637a742754254da/artifacts
+end_time: 1699365764636
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 3e76c9ceb14744d09637a742754254da
+run_name: respected-perch-992
+run_uuid: 3e76c9ceb14744d09637a742754254da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365764454
+status: 3
+tags: []
+user_id: mateu

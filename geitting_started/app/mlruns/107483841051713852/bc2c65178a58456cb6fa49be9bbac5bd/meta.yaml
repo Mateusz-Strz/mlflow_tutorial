@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/bc2c65178a58456cb6fa49be9bbac5bd/artifacts
+end_time: 1699365822330
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: bc2c65178a58456cb6fa49be9bbac5bd
+run_name: dashing-gnat-633
+run_uuid: bc2c65178a58456cb6fa49be9bbac5bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365822167
+status: 3
+tags: []
+user_id: mateu

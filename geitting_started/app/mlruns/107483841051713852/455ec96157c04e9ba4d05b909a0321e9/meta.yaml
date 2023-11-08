@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/455ec96157c04e9ba4d05b909a0321e9/artifacts
+end_time: 1699365819171
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 455ec96157c04e9ba4d05b909a0321e9
+run_name: painted-newt-879
+run_uuid: 455ec96157c04e9ba4d05b909a0321e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365819008
+status: 3
+tags: []
+user_id: mateu

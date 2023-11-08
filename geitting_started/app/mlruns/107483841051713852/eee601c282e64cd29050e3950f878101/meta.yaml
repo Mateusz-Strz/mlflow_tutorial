@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/eee601c282e64cd29050e3950f878101/artifacts
+end_time: 1699365803680
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: eee601c282e64cd29050e3950f878101
+run_name: skittish-finch-634
+run_uuid: eee601c282e64cd29050e3950f878101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365803501
+status: 3
+tags: []
+user_id: mateu

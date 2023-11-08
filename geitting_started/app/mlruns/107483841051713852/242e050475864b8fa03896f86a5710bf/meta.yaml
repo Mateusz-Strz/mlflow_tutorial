@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/242e050475864b8fa03896f86a5710bf/artifacts
+end_time: 1699365742715
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 242e050475864b8fa03896f86a5710bf
+run_name: blushing-stoat-544
+run_uuid: 242e050475864b8fa03896f86a5710bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365742593
+status: 3
+tags: []
+user_id: mateu

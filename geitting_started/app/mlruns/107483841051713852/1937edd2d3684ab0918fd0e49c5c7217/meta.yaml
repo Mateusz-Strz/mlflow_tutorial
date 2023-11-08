@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/1937edd2d3684ab0918fd0e49c5c7217/artifacts
+end_time: 1699365774264
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 1937edd2d3684ab0918fd0e49c5c7217
+run_name: traveling-fox-690
+run_uuid: 1937edd2d3684ab0918fd0e49c5c7217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365774073
+status: 3
+tags: []
+user_id: mateu

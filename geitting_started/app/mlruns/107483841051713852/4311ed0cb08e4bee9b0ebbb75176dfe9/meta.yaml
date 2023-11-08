@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/4311ed0cb08e4bee9b0ebbb75176dfe9/artifacts
+end_time: 1699365749312
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 4311ed0cb08e4bee9b0ebbb75176dfe9
+run_name: unruly-shrike-738
+run_uuid: 4311ed0cb08e4bee9b0ebbb75176dfe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365749159
+status: 3
+tags: []
+user_id: mateu

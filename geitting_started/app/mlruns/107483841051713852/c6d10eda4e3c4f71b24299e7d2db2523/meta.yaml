@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c6d10eda4e3c4f71b24299e7d2db2523/artifacts
+end_time: 1699365785083
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c6d10eda4e3c4f71b24299e7d2db2523
+run_name: wise-squirrel-0
+run_uuid: c6d10eda4e3c4f71b24299e7d2db2523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365784927
+status: 3
+tags: []
+user_id: mateu

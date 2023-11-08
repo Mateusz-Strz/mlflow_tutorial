@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/bd660b0f559d43d18f9247e6717dd7c9/artifacts
+end_time: 1699365800673
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: bd660b0f559d43d18f9247e6717dd7c9
+run_name: omniscient-lamb-714
+run_uuid: bd660b0f559d43d18f9247e6717dd7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365800518
+status: 3
+tags: []
+user_id: mateu

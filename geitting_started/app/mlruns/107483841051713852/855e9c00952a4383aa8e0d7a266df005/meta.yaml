@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/855e9c00952a4383aa8e0d7a266df005/artifacts
+end_time: 1699365750131
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 855e9c00952a4383aa8e0d7a266df005
+run_name: sincere-flea-880
+run_uuid: 855e9c00952a4383aa8e0d7a266df005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365749973
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/583300294fec46a1bd692c0e5bfeb892/artifacts
+end_time: 1699365775875
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 583300294fec46a1bd692c0e5bfeb892
+run_name: legendary-fawn-467
+run_uuid: 583300294fec46a1bd692c0e5bfeb892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365775682
+status: 3
+tags: []
+user_id: mateu

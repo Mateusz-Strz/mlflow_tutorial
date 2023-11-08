@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/dfaba5520044403dacba5b2485fe423f/artifacts
+end_time: 1699365819327
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: dfaba5520044403dacba5b2485fe423f
+run_name: ambitious-kit-561
+run_uuid: dfaba5520044403dacba5b2485fe423f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365819195
+status: 3
+tags: []
+user_id: mateu

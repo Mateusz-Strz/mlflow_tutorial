@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/1d3fb71d3b8a4b6dbb1402f056c52c87/artifacts
+end_time: 1699365755962
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 1d3fb71d3b8a4b6dbb1402f056c52c87
+run_name: selective-shad-231
+run_uuid: 1d3fb71d3b8a4b6dbb1402f056c52c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365755814
+status: 3
+tags: []
+user_id: mateu

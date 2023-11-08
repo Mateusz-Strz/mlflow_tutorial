@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e1b7f38ea3dd49c78b6d21e7ac3c8d8d/artifacts
+end_time: 1699365745183
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e1b7f38ea3dd49c78b6d21e7ac3c8d8d
+run_name: receptive-skink-940
+run_uuid: e1b7f38ea3dd49c78b6d21e7ac3c8d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365745049
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/4f624642018447ea8c2b1f056add9d5f/artifacts
+end_time: 1699365815597
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 4f624642018447ea8c2b1f056add9d5f
+run_name: gifted-shrew-303
+run_uuid: 4f624642018447ea8c2b1f056add9d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365815427
+status: 3
+tags: []
+user_id: mateu

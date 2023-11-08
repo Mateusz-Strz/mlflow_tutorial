@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/ead8cac8aac44b098ca9fdd60e937d53/artifacts
+end_time: 1699365754925
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: ead8cac8aac44b098ca9fdd60e937d53
+run_name: bedecked-fowl-628
+run_uuid: ead8cac8aac44b098ca9fdd60e937d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365754756
+status: 3
+tags: []
+user_id: mateu

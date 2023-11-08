@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/17b6c01ce7af485ebf120326aa1bf756/artifacts
+end_time: 1699365742407
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 17b6c01ce7af485ebf120326aa1bf756
+run_name: powerful-pig-283
+run_uuid: 17b6c01ce7af485ebf120326aa1bf756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365742282
+status: 3
+tags: []
+user_id: mateu

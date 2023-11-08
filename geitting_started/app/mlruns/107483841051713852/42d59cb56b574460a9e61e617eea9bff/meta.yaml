@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/42d59cb56b574460a9e61e617eea9bff/artifacts
+end_time: 1699365752942
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 42d59cb56b574460a9e61e617eea9bff
+run_name: silent-pug-97
+run_uuid: 42d59cb56b574460a9e61e617eea9bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365752761
+status: 3
+tags: []
+user_id: mateu

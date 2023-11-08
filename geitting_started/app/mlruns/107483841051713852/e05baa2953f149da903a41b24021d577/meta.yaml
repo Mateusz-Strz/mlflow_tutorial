@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e05baa2953f149da903a41b24021d577/artifacts
+end_time: 1699365810563
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e05baa2953f149da903a41b24021d577
+run_name: sincere-midge-599
+run_uuid: e05baa2953f149da903a41b24021d577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365810375
+status: 3
+tags: []
+user_id: mateu

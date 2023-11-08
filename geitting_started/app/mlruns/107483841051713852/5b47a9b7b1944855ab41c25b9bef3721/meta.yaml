@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/5b47a9b7b1944855ab41c25b9bef3721/artifacts
+end_time: 1699365761341
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 5b47a9b7b1944855ab41c25b9bef3721
+run_name: flawless-midge-454
+run_uuid: 5b47a9b7b1944855ab41c25b9bef3721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365761186
+status: 3
+tags: []
+user_id: mateu

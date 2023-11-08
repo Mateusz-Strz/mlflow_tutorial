@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/46232b3826fb412ba328db360ab70f83/artifacts
+end_time: 1699365807383
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 46232b3826fb412ba328db360ab70f83
+run_name: luxuriant-ram-936
+run_uuid: 46232b3826fb412ba328db360ab70f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365807222
+status: 3
+tags: []
+user_id: mateu

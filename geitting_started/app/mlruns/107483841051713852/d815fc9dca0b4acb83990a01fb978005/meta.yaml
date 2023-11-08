@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/d815fc9dca0b4acb83990a01fb978005/artifacts
+end_time: 1699365768606
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: d815fc9dca0b4acb83990a01fb978005
+run_name: burly-crab-402
+run_uuid: d815fc9dca0b4acb83990a01fb978005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365768444
+status: 3
+tags: []
+user_id: mateu

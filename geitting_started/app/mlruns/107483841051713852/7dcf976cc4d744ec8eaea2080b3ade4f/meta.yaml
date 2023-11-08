@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/7dcf976cc4d744ec8eaea2080b3ade4f/artifacts
+end_time: 1699365782392
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 7dcf976cc4d744ec8eaea2080b3ade4f
+run_name: delightful-horse-660
+run_uuid: 7dcf976cc4d744ec8eaea2080b3ade4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365782227
+status: 3
+tags: []
+user_id: mateu

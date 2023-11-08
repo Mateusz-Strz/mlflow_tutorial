@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/3a92395fb9cd489580b353963a887260/artifacts
+end_time: 1699365772641
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 3a92395fb9cd489580b353963a887260
+run_name: upset-hound-215
+run_uuid: 3a92395fb9cd489580b353963a887260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365772457
+status: 3
+tags: []
+user_id: mateu

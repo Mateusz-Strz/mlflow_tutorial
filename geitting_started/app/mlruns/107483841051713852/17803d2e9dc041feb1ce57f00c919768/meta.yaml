@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/17803d2e9dc041feb1ce57f00c919768/artifacts
+end_time: 1699365764255
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 17803d2e9dc041feb1ce57f00c919768
+run_name: rebellious-frog-210
+run_uuid: 17803d2e9dc041feb1ce57f00c919768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365764092
+status: 3
+tags: []
+user_id: mateu

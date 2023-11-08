@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/640fa446d4f14d93b88a01b7aa356d78/artifacts
+end_time: 1699365738553
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 640fa446d4f14d93b88a01b7aa356d78
+run_name: learned-cow-389
+run_uuid: 640fa446d4f14d93b88a01b7aa356d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365738217
+status: 3
+tags: []
+user_id: mateu

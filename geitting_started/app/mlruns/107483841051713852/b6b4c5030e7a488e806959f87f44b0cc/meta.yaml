@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b6b4c5030e7a488e806959f87f44b0cc/artifacts
+end_time: 1699365811226
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b6b4c5030e7a488e806959f87f44b0cc
+run_name: redolent-quail-784
+run_uuid: b6b4c5030e7a488e806959f87f44b0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365811016
+status: 3
+tags: []
+user_id: mateu

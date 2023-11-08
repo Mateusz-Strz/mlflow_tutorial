@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/00fdef166f874ff7b5336316a4d81f51/artifacts
+end_time: 1699365822891
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 00fdef166f874ff7b5336316a4d81f51
+run_name: adorable-elk-41
+run_uuid: 00fdef166f874ff7b5336316a4d81f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365822731
+status: 3
+tags: []
+user_id: mateu

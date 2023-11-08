@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e2578d0f5a864c9f9a50d6dd99e03206/artifacts
+end_time: 1699365826439
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e2578d0f5a864c9f9a50d6dd99e03206
+run_name: loud-ox-170
+run_uuid: e2578d0f5a864c9f9a50d6dd99e03206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365826255
+status: 3
+tags: []
+user_id: mateu

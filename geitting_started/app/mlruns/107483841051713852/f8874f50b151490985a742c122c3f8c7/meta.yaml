@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/f8874f50b151490985a742c122c3f8c7/artifacts
+end_time: 1699365798235
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: f8874f50b151490985a742c122c3f8c7
+run_name: nimble-hen-347
+run_uuid: f8874f50b151490985a742c122c3f8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365798068
+status: 3
+tags: []
+user_id: mateu

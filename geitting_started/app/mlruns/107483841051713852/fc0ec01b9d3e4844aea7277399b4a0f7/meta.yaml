@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/fc0ec01b9d3e4844aea7277399b4a0f7/artifacts
+end_time: 1699365801553
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: fc0ec01b9d3e4844aea7277399b4a0f7
+run_name: capricious-smelt-985
+run_uuid: fc0ec01b9d3e4844aea7277399b4a0f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365801399
+status: 3
+tags: []
+user_id: mateu

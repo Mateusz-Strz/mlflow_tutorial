@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/4bd9c1426b124341b48e72a74bdefb5f/artifacts
+end_time: 1699365747562
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 4bd9c1426b124341b48e72a74bdefb5f
+run_name: silent-hawk-505
+run_uuid: 4bd9c1426b124341b48e72a74bdefb5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365747445
+status: 3
+tags: []
+user_id: mateu

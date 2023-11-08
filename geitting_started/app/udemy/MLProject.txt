@@ -1,0 +1,6 @@
+name: wine_quality
+
+entry_points:
+    main:
+        command: 'python train.py'
+        

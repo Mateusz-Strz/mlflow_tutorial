@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/01dbeefa9cee47b588ac6264ec1cdd10/artifacts
+end_time: 1699365807019
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 01dbeefa9cee47b588ac6264ec1cdd10
+run_name: amusing-donkey-796
+run_uuid: 01dbeefa9cee47b588ac6264ec1cdd10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365806863
+status: 3
+tags: []
+user_id: mateu

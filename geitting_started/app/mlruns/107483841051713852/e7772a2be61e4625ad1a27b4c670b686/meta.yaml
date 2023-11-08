@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e7772a2be61e4625ad1a27b4c670b686/artifacts
+end_time: 1699365751150
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e7772a2be61e4625ad1a27b4c670b686
+run_name: bemused-ape-868
+run_uuid: e7772a2be61e4625ad1a27b4c670b686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365750993
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c76f7406551f429e982d8f633f9efea8/artifacts
+end_time: 1699365749775
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c76f7406551f429e982d8f633f9efea8
+run_name: vaunted-mink-617
+run_uuid: c76f7406551f429e982d8f633f9efea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365749619
+status: 3
+tags: []
+user_id: mateu

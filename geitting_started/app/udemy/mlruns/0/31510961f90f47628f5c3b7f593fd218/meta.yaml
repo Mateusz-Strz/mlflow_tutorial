@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateu/github/mlflow_tutorial/geitting_started/app/udemy/mlruns/0/31510961f90f47628f5c3b7f593fd218/artifacts
+end_time: 1698745625070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31510961f90f47628f5c3b7f593fd218
+run_name: monumental-conch-456
+run_uuid: 31510961f90f47628f5c3b7f593fd218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698745620252
+status: 3
+tags: []
+user_id: mateu

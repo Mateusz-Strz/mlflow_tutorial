@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/944ae472c8dc47f790b37975216fb552/artifacts
+end_time: 1699365764852
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 944ae472c8dc47f790b37975216fb552
+run_name: intrigued-chimp-520
+run_uuid: 944ae472c8dc47f790b37975216fb552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365764667
+status: 3
+tags: []
+user_id: mateu

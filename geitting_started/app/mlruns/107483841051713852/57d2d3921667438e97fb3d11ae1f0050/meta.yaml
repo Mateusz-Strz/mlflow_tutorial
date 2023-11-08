@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/57d2d3921667438e97fb3d11ae1f0050/artifacts
+end_time: 1699365751664
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 57d2d3921667438e97fb3d11ae1f0050
+run_name: illustrious-bug-722
+run_uuid: 57d2d3921667438e97fb3d11ae1f0050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365751528
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/fff7c90482f74f228186ba09d57ccfc8/artifacts
+end_time: 1699365766128
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: fff7c90482f74f228186ba09d57ccfc8
+run_name: marvelous-kite-102
+run_uuid: fff7c90482f74f228186ba09d57ccfc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365765996
+status: 3
+tags: []
+user_id: mateu

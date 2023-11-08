@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/e419115659a745e28d77d30eb105ee20/artifacts
+end_time: 1699365759453
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: e419115659a745e28d77d30eb105ee20
+run_name: bold-sloth-104
+run_uuid: e419115659a745e28d77d30eb105ee20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365759314
+status: 3
+tags: []
+user_id: mateu

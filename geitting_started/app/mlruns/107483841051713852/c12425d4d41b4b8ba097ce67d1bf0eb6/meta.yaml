@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c12425d4d41b4b8ba097ce67d1bf0eb6/artifacts
+end_time: 1699365818612
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c12425d4d41b4b8ba097ce67d1bf0eb6
+run_name: abrasive-boar-496
+run_uuid: c12425d4d41b4b8ba097ce67d1bf0eb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365818436
+status: 3
+tags: []
+user_id: mateu

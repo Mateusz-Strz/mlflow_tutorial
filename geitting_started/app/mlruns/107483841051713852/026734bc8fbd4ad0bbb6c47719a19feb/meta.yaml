@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/026734bc8fbd4ad0bbb6c47719a19feb/artifacts
+end_time: 1699365822143
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 026734bc8fbd4ad0bbb6c47719a19feb
+run_name: stately-carp-904
+run_uuid: 026734bc8fbd4ad0bbb6c47719a19feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365821978
+status: 3
+tags: []
+user_id: mateu

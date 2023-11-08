@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/957ebfdb4e3040fe8eb703718f42c0ae/artifacts
+end_time: 1699365750642
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 957ebfdb4e3040fe8eb703718f42c0ae
+run_name: orderly-owl-22
+run_uuid: 957ebfdb4e3040fe8eb703718f42c0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365750505
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/76fb7953a4f04709a2e493949d0b7f9c/artifacts
+end_time: 1699365755790
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 76fb7953a4f04709a2e493949d0b7f9c
+run_name: enchanting-hound-676
+run_uuid: 76fb7953a4f04709a2e493949d0b7f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365755642
+status: 3
+tags: []
+user_id: mateu

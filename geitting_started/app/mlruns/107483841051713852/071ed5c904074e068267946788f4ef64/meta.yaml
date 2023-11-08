@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/071ed5c904074e068267946788f4ef64/artifacts
+end_time: 1699365822519
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 071ed5c904074e068267946788f4ef64
+run_name: rebellious-lamb-4
+run_uuid: 071ed5c904074e068267946788f4ef64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365822354
+status: 3
+tags: []
+user_id: mateu

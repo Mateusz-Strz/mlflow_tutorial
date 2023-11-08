@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/8144b636c4344cd5b5beecce7221aedb/artifacts
+end_time: 1699365825138
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 8144b636c4344cd5b5beecce7221aedb
+run_name: zealous-deer-158
+run_uuid: 8144b636c4344cd5b5beecce7221aedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365824967
+status: 3
+tags: []
+user_id: mateu

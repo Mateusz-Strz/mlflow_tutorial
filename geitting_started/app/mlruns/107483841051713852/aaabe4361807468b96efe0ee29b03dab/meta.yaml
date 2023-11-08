@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/aaabe4361807468b96efe0ee29b03dab/artifacts
+end_time: 1699365765173
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: aaabe4361807468b96efe0ee29b03dab
+run_name: mercurial-stork-926
+run_uuid: aaabe4361807468b96efe0ee29b03dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365765039
+status: 3
+tags: []
+user_id: mateu

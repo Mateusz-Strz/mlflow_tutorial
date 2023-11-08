@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/630a67d3d1d94f09b6d535deb1ef9efe/artifacts
+end_time: 1699365780895
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 630a67d3d1d94f09b6d535deb1ef9efe
+run_name: masked-grouse-411
+run_uuid: 630a67d3d1d94f09b6d535deb1ef9efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365780743
+status: 3
+tags: []
+user_id: mateu

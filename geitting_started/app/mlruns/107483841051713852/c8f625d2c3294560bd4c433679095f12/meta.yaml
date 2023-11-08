@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c8f625d2c3294560bd4c433679095f12/artifacts
+end_time: 1699365805174
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c8f625d2c3294560bd4c433679095f12
+run_name: nebulous-swan-872
+run_uuid: c8f625d2c3294560bd4c433679095f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365805025
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/d94442fb4f634a359718a94cde1ddedc/artifacts
+end_time: 1699365810151
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: d94442fb4f634a359718a94cde1ddedc
+run_name: illustrious-fly-173
+run_uuid: d94442fb4f634a359718a94cde1ddedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365809974
+status: 3
+tags: []
+user_id: mateu

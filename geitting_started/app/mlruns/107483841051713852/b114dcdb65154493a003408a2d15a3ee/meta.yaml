@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b114dcdb65154493a003408a2d15a3ee/artifacts
+end_time: 1699365826228
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b114dcdb65154493a003408a2d15a3ee
+run_name: crawling-shrike-3
+run_uuid: b114dcdb65154493a003408a2d15a3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365826037
+status: 3
+tags: []
+user_id: mateu

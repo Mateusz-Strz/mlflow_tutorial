@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/5752877e87424826a96e8daf34763d4e/artifacts
+end_time: 1699365774767
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 5752877e87424826a96e8daf34763d4e
+run_name: agreeable-carp-238
+run_uuid: 5752877e87424826a96e8daf34763d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365774559
+status: 3
+tags: []
+user_id: mateu

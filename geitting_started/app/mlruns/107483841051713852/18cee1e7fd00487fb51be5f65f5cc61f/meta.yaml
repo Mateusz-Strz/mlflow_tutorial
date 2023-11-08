@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/18cee1e7fd00487fb51be5f65f5cc61f/artifacts
+end_time: 1699365732876
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 18cee1e7fd00487fb51be5f65f5cc61f
+run_name: welcoming-stoat-792
+run_uuid: 18cee1e7fd00487fb51be5f65f5cc61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365732767
+status: 3
+tags: []
+user_id: mateu

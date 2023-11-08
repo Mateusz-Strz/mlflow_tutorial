@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/1dc5a500c7d449efa7ff635611d8a665/artifacts
+end_time: 1699365756672
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 1dc5a500c7d449efa7ff635611d8a665
+run_name: sophisticated-ox-352
+run_uuid: 1dc5a500c7d449efa7ff635611d8a665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365756539
+status: 3
+tags: []
+user_id: mateu

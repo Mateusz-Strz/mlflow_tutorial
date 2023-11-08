@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/709593726a4549029e164bdd1b12de2d/artifacts
+end_time: 1699365783823
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 709593726a4549029e164bdd1b12de2d
+run_name: debonair-chimp-344
+run_uuid: 709593726a4549029e164bdd1b12de2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365783672
+status: 3
+tags: []
+user_id: mateu

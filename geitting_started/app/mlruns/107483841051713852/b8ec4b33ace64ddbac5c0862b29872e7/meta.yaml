@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b8ec4b33ace64ddbac5c0862b29872e7/artifacts
+end_time: 1699365748951
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b8ec4b33ace64ddbac5c0862b29872e7
+run_name: carefree-boar-967
+run_uuid: b8ec4b33ace64ddbac5c0862b29872e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365748817
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/ab2ba2e13e2e4c87b47555e7f4d05648/artifacts
+end_time: 1699365745989
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: ab2ba2e13e2e4c87b47555e7f4d05648
+run_name: resilient-goat-692
+run_uuid: ab2ba2e13e2e4c87b47555e7f4d05648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365745850
+status: 3
+tags: []
+user_id: mateu

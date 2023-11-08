@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/75c9d22d1407440c9bb2038f798cac03/artifacts
+end_time: 1699365789726
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 75c9d22d1407440c9bb2038f798cac03
+run_name: abrasive-shrew-861
+run_uuid: 75c9d22d1407440c9bb2038f798cac03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365789572
+status: 3
+tags: []
+user_id: mateu

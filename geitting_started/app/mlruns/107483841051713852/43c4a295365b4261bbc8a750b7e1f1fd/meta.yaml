@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/43c4a295365b4261bbc8a750b7e1f1fd/artifacts
+end_time: 1699365789016
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 43c4a295365b4261bbc8a750b7e1f1fd
+run_name: bemused-snail-698
+run_uuid: 43c4a295365b4261bbc8a750b7e1f1fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365788857
+status: 3
+tags: []
+user_id: mateu

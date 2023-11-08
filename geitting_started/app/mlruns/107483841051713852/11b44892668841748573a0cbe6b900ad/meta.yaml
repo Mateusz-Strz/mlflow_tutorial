@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/11b44892668841748573a0cbe6b900ad/artifacts
+end_time: 1699365736862
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 11b44892668841748573a0cbe6b900ad
+run_name: calm-snipe-224
+run_uuid: 11b44892668841748573a0cbe6b900ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365736760
+status: 3
+tags: []
+user_id: mateu

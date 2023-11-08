@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/716f76bb52bc4d409fbc457b6aa2d835/artifacts
+end_time: 1699365759949
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 716f76bb52bc4d409fbc457b6aa2d835
+run_name: clumsy-stag-592
+run_uuid: 716f76bb52bc4d409fbc457b6aa2d835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365759811
+status: 3
+tags: []
+user_id: mateu

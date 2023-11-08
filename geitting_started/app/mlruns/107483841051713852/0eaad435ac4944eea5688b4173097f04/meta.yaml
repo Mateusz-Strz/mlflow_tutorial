@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/0eaad435ac4944eea5688b4173097f04/artifacts
+end_time: 1699365780717
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 0eaad435ac4944eea5688b4173097f04
+run_name: amusing-asp-783
+run_uuid: 0eaad435ac4944eea5688b4173097f04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365780568
+status: 3
+tags: []
+user_id: mateu

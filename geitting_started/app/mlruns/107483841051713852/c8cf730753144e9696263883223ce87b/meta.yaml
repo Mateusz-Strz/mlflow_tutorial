@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/c8cf730753144e9696263883223ce87b/artifacts
+end_time: 1699365819915
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: c8cf730753144e9696263883223ce87b
+run_name: melodic-fawn-144
+run_uuid: c8cf730753144e9696263883223ce87b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365819751
+status: 3
+tags: []
+user_id: mateu

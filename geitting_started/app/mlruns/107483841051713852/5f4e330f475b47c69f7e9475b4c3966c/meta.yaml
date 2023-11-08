@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/5f4e330f475b47c69f7e9475b4c3966c/artifacts
+end_time: 1699365786477
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 5f4e330f475b47c69f7e9475b4c3966c
+run_name: nervous-shrew-35
+run_uuid: 5f4e330f475b47c69f7e9475b4c3966c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365786319
+status: 3
+tags: []
+user_id: mateu

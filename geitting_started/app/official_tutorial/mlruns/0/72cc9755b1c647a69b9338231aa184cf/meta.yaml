@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/72cc9755b1c647a69b9338231aa184cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72cc9755b1c647a69b9338231aa184cf
+run_name: awesome-snipe-994
+run_uuid: 72cc9755b1c647a69b9338231aa184cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699257579876
+status: 1
+tags: []
+user_id: mateu

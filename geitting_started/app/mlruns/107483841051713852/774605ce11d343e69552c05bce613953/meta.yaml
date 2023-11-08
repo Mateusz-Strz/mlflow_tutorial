@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/774605ce11d343e69552c05bce613953/artifacts
+end_time: 1699365797809
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 774605ce11d343e69552c05bce613953
+run_name: suave-sloth-106
+run_uuid: 774605ce11d343e69552c05bce613953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365797589
+status: 3
+tags: []
+user_id: mateu

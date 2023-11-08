@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/7d7a34abfd664720a7139539cf501317/artifacts
+end_time: 1699365740280
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 7d7a34abfd664720a7139539cf501317
+run_name: chill-perch-925
+run_uuid: 7d7a34abfd664720a7139539cf501317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365740140
+status: 3
+tags: []
+user_id: mateu

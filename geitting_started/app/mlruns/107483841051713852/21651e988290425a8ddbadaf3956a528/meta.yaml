@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/21651e988290425a8ddbadaf3956a528/artifacts
+end_time: 1699365815778
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 21651e988290425a8ddbadaf3956a528
+run_name: worried-stoat-764
+run_uuid: 21651e988290425a8ddbadaf3956a528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365815621
+status: 3
+tags: []
+user_id: mateu

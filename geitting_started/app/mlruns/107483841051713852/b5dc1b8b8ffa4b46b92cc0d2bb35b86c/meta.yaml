@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/b5dc1b8b8ffa4b46b92cc0d2bb35b86c/artifacts
+end_time: 1699365827306
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: b5dc1b8b8ffa4b46b92cc0d2bb35b86c
+run_name: illustrious-boar-379
+run_uuid: b5dc1b8b8ffa4b46b92cc0d2bb35b86c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365827121
+status: 3
+tags: []
+user_id: mateu

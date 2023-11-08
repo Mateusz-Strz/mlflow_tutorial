@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/18d5f1c7aa0d4ba2b5c4cf8599fd094d/artifacts
+end_time: 1699365765017
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 18d5f1c7aa0d4ba2b5c4cf8599fd094d
+run_name: resilient-skink-91
+run_uuid: 18d5f1c7aa0d4ba2b5c4cf8599fd094d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365764877
+status: 3
+tags: []
+user_id: mateu

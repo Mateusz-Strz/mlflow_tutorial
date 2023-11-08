@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/a6727976ab3e45528d1c8a7011865674/artifacts
+end_time: 1699365762850
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: a6727976ab3e45528d1c8a7011865674
+run_name: capable-snail-422
+run_uuid: a6727976ab3e45528d1c8a7011865674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365762707
+status: 3
+tags: []
+user_id: mateu

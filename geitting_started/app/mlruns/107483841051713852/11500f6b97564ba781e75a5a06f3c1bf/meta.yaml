@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/11500f6b97564ba781e75a5a06f3c1bf/artifacts
+end_time: 1699365785940
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 11500f6b97564ba781e75a5a06f3c1bf
+run_name: worried-dolphin-180
+run_uuid: 11500f6b97564ba781e75a5a06f3c1bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365785788
+status: 3
+tags: []
+user_id: mateu

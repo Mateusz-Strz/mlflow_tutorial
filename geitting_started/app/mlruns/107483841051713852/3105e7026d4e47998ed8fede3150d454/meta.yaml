@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/3105e7026d4e47998ed8fede3150d454/artifacts
+end_time: 1699365745030
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 3105e7026d4e47998ed8fede3150d454
+run_name: unruly-croc-331
+run_uuid: 3105e7026d4e47998ed8fede3150d454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365744908
+status: 3
+tags: []
+user_id: mateu

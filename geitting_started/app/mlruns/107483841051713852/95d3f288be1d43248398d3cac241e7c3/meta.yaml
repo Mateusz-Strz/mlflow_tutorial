@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/95d3f288be1d43248398d3cac241e7c3/artifacts
+end_time: 1699365759098
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 95d3f288be1d43248398d3cac241e7c3
+run_name: languid-gnu-928
+run_uuid: 95d3f288be1d43248398d3cac241e7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365758962
+status: 3
+tags: []
+user_id: mateu

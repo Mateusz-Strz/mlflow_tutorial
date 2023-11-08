@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/01c317e4ba9546d8b58693ecd8200b16/artifacts
+end_time: 1699365802305
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 01c317e4ba9546d8b58693ecd8200b16
+run_name: defiant-penguin-610
+run_uuid: 01c317e4ba9546d8b58693ecd8200b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365802120
+status: 3
+tags: []
+user_id: mateu

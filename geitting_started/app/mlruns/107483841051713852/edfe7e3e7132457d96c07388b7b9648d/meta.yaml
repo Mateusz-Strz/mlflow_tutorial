@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/edfe7e3e7132457d96c07388b7b9648d/artifacts
+end_time: 1699365822707
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: edfe7e3e7132457d96c07388b7b9648d
+run_name: clumsy-perch-976
+run_uuid: edfe7e3e7132457d96c07388b7b9648d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365822544
+status: 3
+tags: []
+user_id: mateu

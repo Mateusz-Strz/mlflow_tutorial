@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/97bd4e3a1bc84d8d9b632653709c49aa/artifacts
+end_time: 1699365741528
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: 97bd4e3a1bc84d8d9b632653709c49aa
+run_name: peaceful-sponge-185
+run_uuid: 97bd4e3a1bc84d8d9b632653709c49aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365741406
+status: 3
+tags: []
+user_id: mateu

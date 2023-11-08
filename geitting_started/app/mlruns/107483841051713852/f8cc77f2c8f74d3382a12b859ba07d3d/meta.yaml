@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/f8cc77f2c8f74d3382a12b859ba07d3d/artifacts
+end_time: 1699365817091
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: f8cc77f2c8f74d3382a12b859ba07d3d
+run_name: angry-koi-91
+run_uuid: f8cc77f2c8f74d3382a12b859ba07d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365816929
+status: 3
+tags: []
+user_id: mateu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107483841051713852/d0e58d7036f1463197b91a08296bae63/artifacts
+end_time: 1699365801732
+entry_point_name: ''
+experiment_id: '107483841051713852'
+lifecycle_stage: active
+run_id: d0e58d7036f1463197b91a08296bae63
+run_name: carefree-shrimp-12
+run_uuid: d0e58d7036f1463197b91a08296bae63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699365801576
+status: 3
+tags: []
+user_id: mateu
